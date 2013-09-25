@@ -1,7 +1,7 @@
 name = platform block feature
 core = 7.x
 package = Features
-version = 7.x-1.5
+version = 7.x-1.6
 project = platform_block_feature
 dependencies[] = accordion_rotator
 dependencies[] = comment

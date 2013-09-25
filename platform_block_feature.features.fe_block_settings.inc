@@ -419,8 +419,7 @@ function platform_block_feature_default_fe_block_settings() {
     'delta' => 'simple',
     'module' => 'islandora_solr',
     'node_types' => array(),
-    'pages' => '<front>
-islandora/search/*',
+    'pages' => '<front>',
     'roles' => array(),
     'themes' => array(
       'bartik' => array(
